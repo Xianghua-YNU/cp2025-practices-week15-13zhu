@@ -1,10 +1,8 @@
-"""
-学生模板：平方反比引力场中的运动
+平方反比引力场中的运动
 文件：inverse_square_law_motion_student.py
 作者：[王梦]
 日期：[6.4]
 
-"""
 Module: InverseSquareLawMotion Solution
 File: inverse_square_law_motion_solution.py
 Author: Trae AI
