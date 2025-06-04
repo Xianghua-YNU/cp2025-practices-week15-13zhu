@@ -1,3 +1,4 @@
+"""
 Module: InverseSquareLawMotion Solution
 File: inverse_square_law_motion_solution.py
 Author: Trae AI
